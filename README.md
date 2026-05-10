@@ -9,8 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Arun%20Kumar%20Ravi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Sponsored%20Roles-1D9E75?style=flat" alt="Open to sponsored roles"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Location-Birmingham%2C%20UK-555?style=flat&logo=google-maps&logoColor=white" alt="Birmingham UK"/>
 </p>
 
@@ -22,7 +20,7 @@ I'm a BI Developer with 3+ years building data solutions for NHS Community Servi
 
 My day job at Modality LLP involves owning the full stack — from SQL Server warehouse design and SSIS pipelines through to Power BI dashboards serving 100+ clinical users. I'm now building modern DE skills (dbt, cloud pipelines, Airflow) to move into data engineering roles.
 
-I'm actively looking for **Data Engineer** or **Analytics Engineer** roles in the UK that offer **skilled worker visa sponsorship**.
+I'm actively looking for **Senior BI Developer** or **Data Engineer** or **Analytics Engineer** roles in the UK.
 
 ---
 
@@ -106,8 +104,7 @@ NHS England CSVs → Python ingest + Pandas cleaning → PostgreSQL warehouse
 
 ## Open to opportunities
 
-I'm looking for **Data Engineer** or **Analytics Engineer** roles in the UK.
-- Skilled Worker visa — requires sponsorship transfer
+I'm looking for **Senior BI Developer** or **Data Engineer** or **Analytics Engineer** roles in the UK.
 - Open to hybrid or remote
 - Strong NHS / healthcare domain background
 
